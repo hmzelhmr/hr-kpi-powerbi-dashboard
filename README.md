@@ -26,4 +26,4 @@ Power BI Desktop · Power Query · DAX · SQL Server · HRAccess
 Ouvrir le fichier `.pbix` avec Power BI Desktop (Windows). La source de données d'origine (SQL Server HRAccess) n'est pas accessible publiquement ; les visuels s'appuient sur les données importées dans le fichier.
 
 ## Auteur
-**Hamza ELHIMRI** — encadrante pédagogique : Pr. Wiam ELOUHAM.
+**Hamza ELHIMRI** futur data scientist
